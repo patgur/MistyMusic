@@ -1,0 +1,24 @@
+.tabsSquare{
+    float: left;
+}
+.tansposeButton{
+    width: 50%;
+    margin: 0px;
+    padding: 0px;
+}
+.tabsSquare-hide{
+    display: none;
+}
+select{
+	appearance: none;
+    width: 7.32vw;
+    text-align: center;
+    background-color: gray;
+    font-size: 1.5rem;
+    height: 9vh;
+    font-size: 3.5rem;
+    text-align-last:center;
+}
+.transposeButton{
+    width:50%;
+}

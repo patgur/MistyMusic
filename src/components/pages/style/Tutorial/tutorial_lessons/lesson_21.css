@@ -1,0 +1,25 @@
+.lesson21_chords{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 80px;
+}
+.lesson21_chords > .lesson21_photo{
+    width:100%;
+    padding: 0px 15px 0px;
+}
+
+.lesson21_label{
+    font-size: 2em!important;
+    text-align:center;
+    color:rgba(255, 255, 255, 0.603);
+}
+.lesson21_title{
+    text-align:center;
+    font-weight:bold;
+    width:100%;
+    font-size:3em;
+    color:rgb(173, 255, 47);
+}
+.lesson21_picture{
+    width:100%;
+}

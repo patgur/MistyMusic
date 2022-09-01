@@ -1,0 +1,17 @@
+.lesson19_table, th, td{
+    border: 1px solid black;
+}
+.lesson19_table > *{
+    text-align: center;
+}
+.lesson19_table > tr > td, .lesson19_table > tr > th{
+    padding: 6px 8px 6px
+}
+.lesson19_table{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.lesson19_img > img{
+    width: 100%;
+}

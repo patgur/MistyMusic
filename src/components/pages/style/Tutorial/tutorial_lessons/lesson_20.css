@@ -1,0 +1,22 @@
+.lesson20_table, th, td{
+    border: 1px solid black;
+}
+.lesson20_table > *{
+    text-align: center;
+}
+.lesson20_table > tr > td, .lesson20_table > tr > th{
+    padding: 6px 8px 6px
+}
+.lesson20_table{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.lesson20_img > img{
+    width: 100%;
+}
+
+.lesson20_li{
+    color:rgba(255, 255, 255, 0.603);
+    margin-bottom: 22px;
+}

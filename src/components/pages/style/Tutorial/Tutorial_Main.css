@@ -1,0 +1,58 @@
+.lesson{
+    width: 100%;
+    color: rgba(255, 255, 255, 0.603);
+    display: flex;
+    flex-direction: row;
+    min-height: 83vh;
+}
+
+main{
+    flex-basis: 70%;
+
+    display: flex;
+    flex-wrap: wrap;
+    
+
+    padding: 5vh 3vw 1vh;
+    font-size: 22px;
+    margin-top: 20px;
+    border:rgba(120, 127, 141, 0.103) solid 3px;
+}
+
+
+main > div{
+    
+    margin-bottom: 38px;
+    padding-left: 5mm;
+    padding-right: 5mm;
+    flex: 1 1 50%;
+}
+
+.lesson > * > p{
+    margin-bottom: 20px;
+}
+
+.lessonButton{
+    background-color: rgb(73, 73, 153);
+    border-radius: 100px;
+    color: rgb(166, 166, 255);
+    cursor: pointer;
+    display: inline-block;
+    padding: 7px 20px;
+    text-align: center;
+    text-decoration: none;
+    transition: 250ms;
+    border: 0;
+    font-size: 22px;
+    width: auto;
+
+    margin-top: 30px;
+}
+.lessonButton:hover{
+    filter: brightness(150%);
+}
+
+section{
+    width: 100%;
+    margin-left: 38%;
+}

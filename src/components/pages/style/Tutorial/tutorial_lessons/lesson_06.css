@@ -1,0 +1,27 @@
+.lesson6 > *:nth-child(1){
+    flex: 1 1 100%;
+}
+
+.lesson6_picture{
+    width:50%;
+}
+
+.lesson6_pictureSection{
+    align-items: center;
+}
+
+.lesson6_pictureSection > div{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.lesson6_pictureSection > div > div{
+    flex: 1 1 50%;
+    text-align: center;
+}
+
+.lesson6_pictureSection > div > div:nth-child(1){
+    flex: 1 1 100%;
+    text-align: center;
+}

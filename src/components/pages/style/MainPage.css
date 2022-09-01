@@ -1,0 +1,36 @@
+.mainPage {
+    background: linear-gradient(90deg, rgb(56, 56, 56) 0%, rgb(54, 64, 70) 100%);
+    color: white;
+    min-height: 83vh;
+    padding: 30px 20px 30px;
+    display: flex;
+}
+
+.mainPage-img {
+    width: 35%;
+    float: left;
+    margin-top:2%;
+    margin-left:3%;
+    opacity: 0.65;
+}
+
+.mainPage-text {
+    font-family: "Times New Roman" !important;
+    width: 60%;
+    float: right;
+    text-align: left;
+    font-weight: normal; 
+    padding: 10px 37px;
+    letter-spacing: 1.5px;
+    font-size: 1vw;
+}
+
+.mainPage-text h2{
+    text-align: center;
+    color: rgb(173, 255, 47);
+    letter-spacing: 1.5px;
+}
+
+.guitarPicture {
+    width: 100%;
+}

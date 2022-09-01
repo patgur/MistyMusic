@@ -1,0 +1,70 @@
+mark{
+    font-weight: bold;
+    text-decoration: none;
+}
+mark.red, #red{
+    color: rgb(246, 90, 90);
+    background: none;
+}
+mark.white, #white{
+    color: white;
+    background: none;
+}
+mark.blue, #blue{
+    color: rgb(87, 140, 206);
+    background: none;
+}
+mark.black, #black{
+    color: rgb(0, 0, 0);
+    background: none;
+}
+mark.yellow, #yellow{
+    color: rgb(255, 255, 128);
+    background: none;
+}
+mark.pink, #pink{
+    color: rgb(255, 111, 255);
+    background: none;
+}
+mark.cyan, #cyan{
+    color: rgb(101, 255, 255);
+    background: none;
+}
+mark.green, #green{
+    color: rgb(77, 255, 77);
+    background: none;
+}
+mark.bold, #bold{
+    font-weight: bolder;
+    background: none;
+}
+mark.i, #i{
+    color: rgba(255, 255, 255, 0.797);
+    font-weight: bolder;
+    background: none;
+}
+
+mark.my, #my{
+    color: rgb(173, 255, 47);
+    font-weight: bolder;
+    background: none;
+}
+
+mark.big, #big{
+    font-weight: bolder;
+    font-size: 125%;
+    background: none;
+}
+
+mark.italics, #italics{
+    color: rgba(255, 255, 255, 0.603);
+    background: none;
+    font-style: italic;
+    font-weight: normal;
+}
+
+mark.small, #small{
+    font-size: 75%;
+    color: rgba(255, 255, 255, 0.603);
+    background: none;
+}

@@ -1,0 +1,11 @@
+.lesson9{
+    align-items: center;
+}
+
+.lesson9_guitarNeck > img{
+    width:100%;
+}
+
+.lesson9_column{
+    text-align: center;
+}

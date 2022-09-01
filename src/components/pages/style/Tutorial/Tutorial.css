@@ -1,0 +1,14 @@
+:root{
+    --margin-horizontal: 4vw;
+    --margin-vertical: 3vh;
+}
+.tutorial{
+    width: 100%;
+    color: rgba(255, 255, 255, 0.603);
+    display: flex;
+    flex-direction: row;
+    min-height: 83vh;
+}
+#eof{
+    clear: both;
+}

@@ -1,0 +1,10 @@
+.lesson2{
+    display: block!important;
+}
+
+.lesson2_lecture > p{
+    margin-bottom: 38px;
+}
+.lesson2_guitar_picture {
+    width: 55%;
+}

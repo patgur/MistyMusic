@@ -1,0 +1,90 @@
+[
+    {
+        "id": "01",
+        "name": "Gitara"
+    },
+    {
+        "id": "02",
+        "name": "Gitara - funcjonalność elementów"
+    },
+    {
+        "id": "03",
+        "name": "Lewa ręka"
+    },
+    {
+        "id": "04",
+        "name": "Struny"
+    },
+    {
+        "id":"05",
+        "name": "Progi"
+    },
+    {
+        "id":"06",
+        "name": "Prawa ręka - akordy"
+    },
+    {
+        "id":"07",
+        "name": "Prawa ręka - fingerstyle"
+    },
+    {
+        "id":"08",
+        "name": "Teoria muzyki"
+    },
+    {
+        "id":"09",
+        "name": "Strojenie gitary"
+    },
+    {
+        "id":"10",
+        "name": "Trzymanie strun"
+    },
+	{
+        "id":"11",
+        "name": "Praktyka - fingerstyle"
+    },
+	{
+        "id":"12",
+        "name": "Granie akordów"
+    },
+	{
+        "id":"13",
+        "name": "Akordy a-moll i C-dur"
+    },
+    {
+        "id":"14",
+        "name": "Akord G-dur a G-dur"
+    },
+    {
+        "id":"15",
+        "name": "Pierwsza piosenka"
+    },
+    {
+        "id":"16",
+        "name": "Akordy E-dur i d-moll"
+    },
+    {
+        "id":"17",
+        "name": "Tłumienie strun"
+    },
+    {
+        "id":"18",
+        "name": "Akord F-dur a F-dur"
+    },
+    {
+        "id":"19",
+        "name": "Akordy A-dur i D-dur"
+    },
+    {
+        "id":"20",
+        "name": "Akordy barowe"
+    },
+    {
+        "id":"21",
+        "name": "Reszta akordów barowych"
+    },
+    {
+        "id":"22",
+        "name": "Fingerstyle"
+    }
+]
