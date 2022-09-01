@@ -26,7 +26,7 @@ import gIsMoll from '../../img/chords/24.png'
 function Chord({picture, name}){
     return(
         <div className="lesson21_photo">
-            <img className="lesson21_picture" src={picture} />
+            <img className="lesson21_picture" src={picture} alt=''/>
             <div className="lesson21_label">{name}</div>
         </div>
     )
