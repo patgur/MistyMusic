@@ -40,9 +40,7 @@ function lesson(){
                             if(chord.mainString === 6){return(
                                 <Chord photoId={chord.id} photoName={chord.name} />
                             )}
-                            else{
-                                <></>
-                            }
+                            else{return(<></>)}
                         })}
                     </div>
                 </div>
@@ -55,9 +53,7 @@ function lesson(){
                             if(chord.mainString === 5){return(
                                 <Chord photoId={chord.id} photoName={chord.name} />
                             )}
-                            else{
-                                <></>
-                            }
+                            else{return(<></>)}
                         })}
                     </div>
                 </div>
@@ -70,9 +66,7 @@ function lesson(){
                             if(chord.mainString === 4){return(
                                 <Chord photoId={chord.id} photoName={chord.name} />
                             )}
-                            else{
-                                <></>
-                            }
+                            else{return(<></>)}
                         })}
                     </div>
                 </div>
