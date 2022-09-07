@@ -7,12 +7,10 @@ import LessonsList from "../../database/tutorial_pagesNames.json"
 
 export default function MenuList(){
     return(
-        <table>
-            <ul className="menuList">
+        <table className="menuList">
                 {LessonsList.map((lesson, index) => {
-                    return <ol><Link to={'/tutorial/' + lesson.id} >{index+1 + '. ' + lesson.name}</Link></ol>
+                    return <tr><td><Link to={'/tutorial/' + lesson.id} >{index+1 + '. ' + lesson.name}</Link></td></tr>
                 })}
-            </ul>
         </table>
     )
 }

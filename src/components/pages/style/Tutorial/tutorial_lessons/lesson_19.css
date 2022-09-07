@@ -1,4 +1,4 @@
-.lesson19_table, th, td{
+.lesson19_table, .lesson19_table th, .lesson19_table td{
     border: 1px solid black;
 }
 .lesson19_table > *{

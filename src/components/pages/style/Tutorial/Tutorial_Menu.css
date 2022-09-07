@@ -28,16 +28,18 @@ ul{
     padding: 1vh 3vw 1vh;
 }
 
-table, td{
-    border: 1px solid black;
+.menuList, .menuList tr, .menuList td{
+    border: rgba(92, 97, 108, 0.103) solid 2px;
 }
-ul:active{
-    color: #999;
+
+.menuList td{
+    padding: 1px 3px 6px;
 }
-.menu > table > ul > ol:hover{
+
+.menuList > tr > td:hover{
     filter: brightness(75%);
     transition: 200ms;
 }
 .menuList{
-    max-height: 80vh;
+    max-height: 180vh;
 }
