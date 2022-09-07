@@ -37,18 +37,18 @@ function TabsSquare({chordNum, changeChord}) {
                 <option value='10'>F#</option>
                 <option value='11'>G</option>
                 <option value='12'>G#</option>
-                <option value='13'>Am</option>
-                <option value='14'>A#m</option>
-                <option value='15'>Bm</option>
-                <option value='16'>Cm</option>
-                <option value='17'>C#m</option>
-                <option value='18'>Dm</option>
-                <option value='19'>D#m</option>
-                <option value='20'>Em</option>
-                <option value='21'>Fm</option>
-                <option value='22'>F#m</option>
-                <option value='23'>Gm</option>
-                <option value='24'>G#m</option>
+                <option value='13'>am</option>
+                <option value='14'>a#m</option>
+                <option value='15'>bm</option>
+                <option value='16'>cm</option>
+                <option value='17'>c#m</option>
+                <option value='18'>cm</option>
+                <option value='19'>c#m</option>
+                <option value='20'>cm</option>
+                <option value='21'>cm</option>
+                <option value='22'>c#m</option>
+                <option value='23'>gm</option>
+                <option value='24'>g#m</option>
             </select>
             <br />
             <br />

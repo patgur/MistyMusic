@@ -16,7 +16,7 @@ function lesson(){
                     W tej części nauczysz się krok po kroku jak grać na gitarze, a także jak jest ona skontruowana. <br />
                     Poznasz jak zbudowane są podstawowe akordy i jak móc je odpowiednio zagrać na gitarze.
                 </div>
-                <div></div>
+                
 
                 <ChangeLessonButton />
             </main>
