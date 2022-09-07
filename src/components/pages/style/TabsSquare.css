@@ -22,3 +22,10 @@ select{
 .transposeButton{
     width:50%;
 }
+
+.tabsSquare_dur{
+    background-color:rgb(118, 180, 86);
+}
+.tabsSquare_moll{
+    background-color:rgb(107, 86, 180);
+}

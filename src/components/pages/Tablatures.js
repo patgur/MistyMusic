@@ -150,7 +150,6 @@ function Tablatures(){
                     <button className="transposeAllButton" onClick={trunsposeDown}>Transpozycja w dół</button>
                     <button className="transposeAllButton" onClick={trunsposeUp}>Transpozycja w górę</button>
                 </div>
-                
             </div>
         </div>
     )
