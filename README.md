@@ -70,4 +70,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 
-### This project is maintained for my official Bachelor's These written under leadership of Dr Wieslaw Wolny.
+### This project is maintained for my official Bachelor Thesis written under leadership of Dr Wieslaw Wolny.
