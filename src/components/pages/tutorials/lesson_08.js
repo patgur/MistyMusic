@@ -18,8 +18,8 @@ function lesson(){
                     </p>
                     <p>
                         Znaki:<br />
-                        <mark id="i">'</mark> czytamy is → oznacza, że podnosimy dany dźwięk o półton<br />
-                        <mark id="i">#</mark> lub <mark id="i">♭</mark> czytamy es → oznacza, że obniżamy dany dźwięk o półton<br />
+                        <mark id="i">#</mark> lub <mark id="i">'</mark> czytamy is → oznacza, że podnosimy dany dźwięk o półton<br />
+                        <mark id="i">♭</mark> czytamy es → oznacza, że obniżamy dany dźwięk o półton<br />
                         <br />
                         Więc, dźwięk A' i B# to jest ten sam dźwięk.
                     </p>
